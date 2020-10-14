@@ -14,3 +14,7 @@ a {
 * {
   box-sizing: border-box;
 }
+
+article > h1:first-child {
+    margin-top: 0;
+}
