@@ -1,2 +1,7 @@
 # Writing
-Vercel integration test
+### Russian
+
+#### [Многоканальные массовые рассылки на Redis — Habr](https://habr.com/ru/post/519632/)
+
+Про то, как режимная машина меняет людей и создает проблемы из воздуха. [Читать дальше...](https://habr.com/ru/post/519632/) 
+

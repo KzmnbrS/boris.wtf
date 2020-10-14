@@ -41,6 +41,47 @@ function Layout({ pathname, title = null, children }) {
         main {
           padding: 22.597px 15.981px;
           display: flex;
+          justify-content: center;
+        }
+
+        @media (min-width: 576px) {
+          nav {
+            flex: 0 0 100px;
+          }
+
+          article {
+            flex: 0 0 361.11px;
+          }
+        }
+
+        @media (min-width: 768px) {
+          nav {
+            flex: 0 0 100px;
+          }
+
+          article {
+            flex: 0 0 510.609px;
+          }
+        }
+
+        @media (min-width: 992px) {
+          nav {
+            flex: 0 0 100px;
+          }
+
+          article {
+            flex: 0 0 722.002px;
+          }
+        }
+
+        @media (min-width: 1200px) {
+          nav {
+            flex: 0 0 100px;
+          }
+
+          article {
+            flex: 0 0 1020.911px;
+          }
         }
 
         nav {
