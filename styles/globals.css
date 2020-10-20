@@ -41,3 +41,20 @@ article a:hover {
 article > h1:first-child {
   margin-top: 0;
 }
+
+article h2 {
+  margin-bottom: 11.302px;
+}
+
+article h3 {
+  margin-top: 0;
+  margin-bottom: 7.993px;
+}
+
+article h4 {
+  margin: 0;
+}
+
+article p {
+    margin: 5.653px 0 5.653px 0;
+}
