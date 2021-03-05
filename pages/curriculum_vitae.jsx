@@ -7,8 +7,12 @@ function CV() {
 
       <h2>Jobs</h2>
       <section>
-        <Block header="LUA-developer, self-employed — 2013–2014">
+        <Block header="LUA-developer, self-employed — Sep 2013 – Feb 2014">
           Helping inept players to get better on World of Warcraft PvP.
+        </Block>
+
+        <Block header="Golang developer, Gora.studio - Nov 2020 - now">
+          Writing mobile backend in augmented reality.
         </Block>
       </section>
 
@@ -27,20 +31,21 @@ function CV() {
         <div style={{ marginRight: "45.18px" }}>
           <h3>Languages</h3>
           <Block header="Natural">Russian – native, English – B2</Block>
-          <Block header="Programming">Python, JavaScript, C</Block>
+          <Block header="Programming">Golang, Python, SQL</Block>
         </div>
         <div>
           <h3>Technologies</h3>
+            <Block header="Golang">
+                echo, gRPC, casbin
+            </Block>
           <Block header="Python">
-            fastapi, aiohttp, socketio, <br />
-            gino (asyncio SQLAlchemy)
+            fastapi, aiohttp
           </Block>
-          <Block header="JavaScript">React, NextJS</Block>
-          <Block header="DBMS">PostgreSQL, Redis</Block>
-          <Block header="Message brokers">NSQ</Block>
-          <Block header="Version control">git</Block>
-          <Block header="Deployment">docker</Block>
-          <Block header="Testing">behave, pySelenium, pytest</Block>
+          <Block header="DBMS">postgreSQL, redis, boltdb</Block>
+          <Block header="Message brokers">nsq</Block>
+          <Block header="Version control">git, liquibase, migrate</Block>
+          <Block header="Deployment">docker, jenkins, gitlab CI</Block>
+          <Block header="Testing">testify, behave, pySelenium</Block>
         </div>
       </section>
 

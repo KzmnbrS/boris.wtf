@@ -1,5 +1,5 @@
 # About Me
-Professional cat petter. Wooden piano player. Web-developer seeking for a new challenge.
+Professional cat petter. Wooden piano player. Backend developer seeking for a new challenge.
 
 Now at home. I live in Russia, Saint Petersburg.
 
