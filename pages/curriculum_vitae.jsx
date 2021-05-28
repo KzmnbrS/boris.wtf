@@ -40,7 +40,7 @@ function CV() {
         <div>
           <h3>Technologies</h3>
             <Block header="Golang">
-                echo, gRPC, casbin
+                fasthttp, gRPC, casbin
             </Block>
           <Block header="Python">
             fastapi, aiohttp
@@ -49,6 +49,7 @@ function CV() {
           <Block header="Message brokers">nsq</Block>
           <Block header="Version control">git, liquibase, migrate</Block>
           <Block header="Deployment">docker, jenkins, gitlab CI</Block>
+          <Block header="Monitoring">prometheus</Block>
           <Block header="Testing">testify, behave, pySelenium</Block>
         </div>
       </section>
