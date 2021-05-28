@@ -11,8 +11,12 @@ function CV() {
           Helping inept players to get better on World of Warcraft PvP.
         </Block>
 
-        <Block header="Golang developer, Gora.studio - Nov 2020 - now">
+        <Block header="Golang developer, Gora.studio — Nov 2020 – Apr 2021">
           Writing mobile backend in augmented reality.
+        </Block>
+    
+        <Block header="Golang developer, Advertline.pro — Apr 2021 – now">
+          Real time bidding.
         </Block>
       </section>
 
