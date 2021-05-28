@@ -7,7 +7,7 @@ function CV() {
 
       <h2>Jobs</h2>
       <section>
-        <Block header="LUA-developer, self-employed — Sep 2013 – Feb 2014">
+        <Block header="LUA developer, self-employed — Sep 2013 – Feb 2014">
           Helping inept players to get better on World of Warcraft PvP.
         </Block>
 
