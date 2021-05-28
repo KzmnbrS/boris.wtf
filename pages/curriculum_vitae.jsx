@@ -42,7 +42,7 @@ function CV() {
             <Block header="Golang">
                 fasthttp, gRPC, casbin
             </Block>
-          <Block header="DBMS">postgreSQL, redis, boltdb</Block>
+          <Block header="DBMS">postgreSQL, redis, badgerdb</Block>
           <Block header="Message brokers">nsq</Block>
           <Block header="Version control">git, liquibase, migrate</Block>
           <Block header="Deployment">docker, jenkins, gitlab CI</Block>
