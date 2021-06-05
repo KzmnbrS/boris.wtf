@@ -16,7 +16,7 @@ function CV() {
         </Block>
     
         <Block header="Golang developer, Advertline.pro — Apr 2021 – now">
-          Real time bidding.
+          500k RPS RTB server.
         </Block>
       </section>
 
@@ -45,8 +45,8 @@ function CV() {
           <Block header="DBMS">postgreSQL, redis, badgerdb</Block>
           <Block header="Message brokers">nsq</Block>
           <Block header="Version control">git, liquibase, migrate</Block>
-          <Block header="Deployment">docker, jenkins, gitlab CI</Block>
-          <Block header="Monitoring">prometheus</Block>
+          <Block header="Deployment">docker, gitlab CI</Block>
+          <Block header="Monitoring">prometheus, sentry</Block>
           <Block header="Testing">testify, behave, pySelenium</Block>
         </div>
       </section>
