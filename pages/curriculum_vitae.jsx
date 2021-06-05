@@ -16,7 +16,7 @@ function CV() {
         </Block>
     
         <Block header="Golang developer, Advertline.pro — Apr 2021 – now">
-          500k RPS RTB server.
+          Extremely loaded RTB server.
         </Block>
       </section>
 
